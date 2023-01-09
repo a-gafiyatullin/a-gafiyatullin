@@ -6,5 +6,5 @@
 - 📫 How to reach me: [e-mail](mailto:albert.gafiyatullin@outlook.com) or [LinkedIn](https://www.linkedin.com/in/albert-gafiyatullin/).
 
 ### ⚡Statistics (_GitHub_ and _LeetCode_)
-[![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xp10rd&layout=compact)](https://github.com/xp10rd)
+[![Top Languages Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xp10rd&layout=compact)](https://github.com/xp10rd)
 [![My LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=agafiyatullin)](https://leetcode.com/agafiyatullin/)
