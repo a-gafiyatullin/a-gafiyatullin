@@ -1,7 +1,5 @@
 ### 👦 About Me
-- 🔭 This profile is for **educational purposes** only.
 - 🌱 The area of my interests includes **compilers design**, **system programming** and **computer architecture**.
-- 👨‍💻 On my primary job at **Unipro/MCST** I'm currently working on **JVM** for **ELBRUS CPU**.
 - ✈️ My [CV](https://github.com/xp10rd/xp10rd/blob/main/agafiyatullin-cv.pdf).
 - 📫 How to reach me: [e-mail](mailto:albert.gafiyatullin@outlook.com) or [LinkedIn](https://www.linkedin.com/in/albert-gafiyatullin/).
 
