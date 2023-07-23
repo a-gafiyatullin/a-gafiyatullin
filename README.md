@@ -1,5 +1,5 @@
 ### 👦 About Me
-- ❗This account is for education purposes only and doesn't connect with my primary jobs!
+- ❗This account is for educational purposes only and isn't connected with my primary jobs!
 - 🌱 The area of my interests includes **compilers design**, **system programming** and **computer architecture**.
 - ✈️ My [CV](https://github.com/xp10rd/xp10rd/blob/main/agafiyatullin-cv.pdf).
 - 📫 How to reach me: [e-mail](mailto:albert.gafiyatullin@outlook.com) or [LinkedIn](https://www.linkedin.com/in/albert-gafiyatullin/).
