@@ -1,6 +1,4 @@
-# Example Site settings
-
-#google_analytics: UA-NNNNNNNN-N
+google_analytics: G-PKXJ59Y704
 
 header_pages:
  - index.md
@@ -9,7 +7,6 @@ header_pages:
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
 style: light
-#listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
   - jekyll-seo-tag
