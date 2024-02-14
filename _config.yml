@@ -4,11 +4,20 @@ header_pages:
  - index.md
  - compilers-basics.md
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
-
 style: light
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-remote-theme
+  - jekyll-scholar
+
+kramdown:
+  math_engine: katex
+  math_engine_opts:
+    output: mathml
+    displayMode: false
 
 remote_theme: b2a3e8/jekyll-theme-console

@@ -11,4 +11,5 @@ I highly recommend to take this course, and even, maybe, it's paid version (as I
 In my opinion, It contains all the materials enough to start a career in the compilers field.
 
 Lectures list:
-- [01-02: Structure of a Compiler](/a-gafiyatullin/compilers-basics/2024/02/13/01-02.html)
+- [01: Structure of a Compiler](/a-gafiyatullin/compilers-basics/2024/02/13/01.html)
+- 
