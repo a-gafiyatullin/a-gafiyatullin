@@ -12,4 +12,4 @@ In my opinion, It contains all the materials enough to start a career in the com
 
 Lectures list:
 - [01: Structure of a Compiler](/a-gafiyatullin/compilers-basics/2024/02/13/01.html)
-- 
+- [03-04: Lexical Analysis](/a-gafiyatullin/compilers-basics/2024/02/14/03-04.html)
