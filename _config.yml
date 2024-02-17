@@ -8,16 +8,16 @@ style: light
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
   - jekyll-remote-theme
-  - jekyll-scholar
 
 kramdown:
   math_engine: katex
   math_engine_opts:
     output: mathml
     displayMode: false
+  syntax_highlighter: rouge
+  input: GFM
 
 remote_theme: b2a3e8/jekyll-theme-console
