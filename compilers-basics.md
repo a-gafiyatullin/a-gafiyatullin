@@ -15,3 +15,4 @@ Lectures list:
 - [03-04: Lexical Analysis](/a-gafiyatullin/compilers-basics/2024/02/14/03-04.html)
 - [05-06: Parsing](/a-gafiyatullin/compilers-basics/2024/02/17/05-06.html)
 - [07-08: Predictive parsing](/a-gafiyatullin/compilers-basics/2024/02/17/07-08.html)
+- [09: Semantic Analysis](/a-gafiyatullin/compilers-basics/2024/02/18/09.html)
