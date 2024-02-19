@@ -16,4 +16,5 @@ Lectures list:
 - [05-06: Parsing](/a-gafiyatullin/compilers-basics/2024/02/17/05-06.html)
 - [07-08: Predictive parsing](/a-gafiyatullin/compilers-basics/2024/02/17/07-08.html)
 - [09: Semantic Analysis](/a-gafiyatullin/compilers-basics/2024/02/18/09.html)
-- [10: Stack Machines](/a-gafiyatullin/compilers-basics/2024/02/18/10.html)
+- [10-11: Stack Machines](/a-gafiyatullin/compilers-basics/2024/02/18/10.html)
+- [12-13: Code Generation](/a-gafiyatullin/compilers-basics/2024/02/19/12-13.html)
