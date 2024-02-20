@@ -18,3 +18,4 @@ Lectures list:
 - [09: Semantic Analysis](/a-gafiyatullin/compilers-basics/2024/02/18/09.html)
 - [10-11: Stack Machines](/a-gafiyatullin/compilers-basics/2024/02/18/10.html)
 - [12-13: Code Generation](/a-gafiyatullin/compilers-basics/2024/02/19/12-13.html)
+- [14-15: Optimizations](/a-gafiyatullin/compilers-basics/2024/02/20/14-15.html)
