@@ -5,4 +5,4 @@
 - 📫 How to reach me: [e-mail](mailto:albert.gafiyatullin@outlook.com) or [LinkedIn](https://www.linkedin.com/in/a-gafiyatullin/).
 
 ### ⚡Statistics (_LeetCode_)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/a-gafiyatullin?theme=dark&font=Noto%20Sans)](https://leetcode.com/a-gafiyatullin/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/a-gafiyatullin?theme=dark&font=Noto%20Sans&ext=contest)](https://leetcode.com/a-gafiyatullin/)
