@@ -3,6 +3,3 @@
 - 🌱 The area of my interests includes **compilers design**, **system programming** and **computer architecture**.
 - ✈️ My [CV](https://github.com/a-gafiyatullin/a-gafiyatullin/blob/main/agafiyatullin-cv.pdf).
 - 📫 How to reach me: [e-mail](mailto:albert.gafiyatullin@outlook.com) or [LinkedIn](https://www.linkedin.com/in/a-gafiyatullin/).
-
-### ⚡Statistics (_LeetCode_)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/a-gafiyatullin?width=725&theme=dark&font=Noto%20Sans&ext=contest)](https://leetcode.com/a-gafiyatullin/)
